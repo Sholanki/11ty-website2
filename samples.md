@@ -1,0 +1,1 @@
+Moved to [`/docs/starter/`](/docs/starter/).
